@@ -1,0 +1,216 @@
+.zmxqwkfbejrqapbt6wdbyw9c77apn-icon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div30 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 7.813rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.divframer-1w3xset2 {
+  top: 0;
+  left: 15.625rem;
+}
+.divframer-1w3xset2,
+.divframer-1ycl6m2,
+.divframer-bblki72 {
+  position: absolute;
+  width: 7.813rem;
+  height: 7.813rem;
+  overflow: hidden;
+}
+.divframer-bblki72 {
+  right: 0;
+  bottom: 0;
+}
+.divframer-1ycl6m2 {
+  top: 0;
+  left: 7.813rem;
+}
+.divframer-1dnhb972 {
+  top: 0;
+  left: 23.438rem;
+}
+.divframer-1dnhb972,
+.divframer-eavpp82,
+.divframer-w2t5392 {
+  position: absolute;
+  width: 7.813rem;
+  height: 7.813rem;
+  overflow: hidden;
+}
+.divframer-eavpp82 {
+  top: 7.813rem;
+  left: 0;
+}
+.divframer-w2t5392 {
+  bottom: 0;
+  left: 7.813rem;
+}
+.divframer-spp2p82 {
+  top: 7.813rem;
+  left: 15.625rem;
+}
+.divframer-1l1064p2,
+.divframer-1m45co22,
+.divframer-spp2p82 {
+  position: absolute;
+  width: 7.813rem;
+  height: 7.813rem;
+  overflow: hidden;
+}
+.divframer-1l1064p2 {
+  top: 7.813rem;
+  left: 23.438rem;
+}
+.divframer-1m45co22 {
+  top: 0;
+  left: 0;
+}
+.divframer-11lc4h62 {
+  bottom: 0;
+  left: 15.625rem;
+}
+.divframer-11lc4h62,
+.divframer-1fv8yp72,
+.divframer-1wr33m22 {
+  position: absolute;
+  width: 7.813rem;
+  height: 7.813rem;
+  overflow: hidden;
+}
+.divframer-1fv8yp72 {
+  top: 7.813rem;
+  left: 7.813rem;
+}
+.divframer-1wr33m22 {
+  bottom: 0;
+  left: 0;
+}
+.divframer-145h7r42,
+.image2 {
+  position: absolute;
+  height: 23.438rem;
+}
+.divframer-145h7r42 {
+  top: -0.025rem;
+  left: calc(50% - 255.2px);
+  width: 31.9rem;
+  opacity: 0.2;
+}
+.image2 {
+  width: 23.438rem;
+  margin: 0 !important;
+  top: calc(50% - 187.9px);
+  left: calc(50% - 187.5px);
+  background-color: #000;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.join-our-growing {
+  margin: 0;
+}
+.span {
+  font-family: "Proxima Nova";
+}
+.alumni1 {
+  font-family: "FONTSPRING DEMO - Roca One Rg";
+}
+.join-our-growing-container {
+  position: relative;
+  line-height: 1.875rem;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+.p6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 0.05rem;
+  z-index: 1;
+}
+.apply-now1 {
+  position: relative;
+  line-height: 1.05rem;
+}
+.divframer-923v642,
+.p7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.p7 {
+  align-self: stretch;
+  align-items: center;
+  padding: 0.006rem 0 0.056rem;
+}
+.divframer-923v642 {
+  align-items: flex-start;
+}
+.divframer-zlvey92 {
+  border-radius: 4px;
+  background: linear-gradient(90.32deg, #f56563, #e54988);
+  height: 2.25rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0.568rem 7.087rem;
+  box-sizing: border-box;
+  z-index: 2;
+  font-size: 0.875rem;
+  color: #fafafa;
+  font-family: "Proxima Nova";
+  cursor: pointer;
+}
+.instagram-icon {
+  width: 2.125rem;
+  position: relative;
+  border-radius: 30px;
+  height: 2.125rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.image-487-icon {
+  width: 2.063rem;
+  position: relative;
+  height: 2.063rem;
+  object-fit: cover;
+}
+.instagram-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.081rem;
+  z-index: 3;
+}
+.footer {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3.85rem 0 3.9rem;
+  position: relative;
+  gap: 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #fff;
+  font-family: "FONTSPRING DEMO - Roca One Rg";
+}

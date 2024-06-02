@@ -1,0 +1,208 @@
+.fill-the-form {
+  position: relative;
+  line-height: 0.9rem;
+  text-transform: uppercase;
+}
+.fill-the-form-below-to-enquire-wrapper {
+  align-self: stretch;
+  border-radius: 10px 10px 0 0;
+  background-color: #e84d84;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0.375rem;
+  z-index: 1;
+}
+.enter-your-name {
+  position: relative;
+  line-height: 1rem;
+  font-weight: 600;
+}
+.eg-aneesha-mehra {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: none;
+}
+.enter-your-name-parent,
+.input {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  flex-direction: row;
+  padding: 0.437rem 0.75rem 0.562rem;
+  font-size: 0.85rem;
+  color: #bfbfbf;
+}
+.enter-your-name-parent {
+  flex-direction: column;
+  gap: 0.687rem;
+}
+.div16 {
+  align-self: stretch;
+  width: 1.375rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border: none;
+}
+.vector-icon2 {
+  width: 0.638rem;
+  position: relative;
+  height: 0.431rem;
+}
+.input1 {
+  width: 3.75rem;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.437rem 0.75rem 0.562rem;
+}
+.eg-0000000000 {
+  align-self: stretch;
+  position: relative;
+  border: none;
+}
+.divplaceholder,
+.input-parent,
+.input2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divplaceholder {
+  overflow: hidden;
+  flex-direction: column;
+}
+.input-parent,
+.input2 {
+  flex-direction: row;
+}
+.input2 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  padding: 0.437rem 0.75rem 0.562rem;
+  color: #bfbfbf;
+}
+.input-parent {
+  align-self: stretch;
+  gap: 0.687rem;
+  font-size: 0.85rem;
+}
+.choose-the-most,
+.svg-icon5 {
+  position: relative;
+  flex-shrink: 0;
+}
+.choose-the-most {
+  align-self: stretch;
+  width: 12.938rem;
+  display: flex;
+  align-items: center;
+}
+.svg-icon5 {
+  width: 0.75rem;
+  height: 0.75rem;
+  overflow: hidden;
+}
+.frame-group,
+.input3 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.input3 {
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.437rem 0.75rem 0.562rem;
+  font-size: 0.85rem;
+  color: #bfbfbf;
+}
+.frame-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 0.625rem;
+}
+.submit {
+  position: relative;
+  line-height: 1.05rem;
+}
+.divframer-923v64,
+.p2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.p2 {
+  align-self: stretch;
+  align-items: center;
+  padding: 0.006rem 0 0.056rem;
+}
+.divframer-923v64 {
+  align-items: flex-start;
+}
+.divframer-zlvey9,
+.form,
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.divframer-zlvey9 {
+  border-radius: 4px;
+  background: linear-gradient(90.32deg, #f56563, #e54988);
+  height: 2.25rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.568rem 7.087rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #fafafa;
+  font-family: "Proxima Nova";
+  cursor: pointer;
+}
+.form,
+.frame-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.form {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 0.625rem;
+  gap: 1.25rem;
+  z-index: 0;
+  margin-top: -0.063rem;
+  font-size: 0.8rem;
+  color: #505050;
+  font-family: "PingFang SC";
+}
+.frame-parent {
+  text-align: left;
+  font-size: 0.75rem;
+  color: #fff;
+  font-family: "Proxima Nova";
+}

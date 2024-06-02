@@ -1,0 +1,142 @@
+.professional-online {
+  margin: 0;
+}
+.svg-icon,
+.title {
+  align-self: stretch;
+  position: relative;
+}
+.title {
+  line-height: 1.875rem;
+  font-family: "FONTSPRING DEMO - Roca One Rg";
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+.svg-icon {
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divframer-171cvlq {
+  width: 0.563rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.certification-programme {
+  position: relative;
+  line-height: 0.773rem;
+}
+.p {
+  align-self: stretch;
+  padding: 0.05rem 0 0.012rem;
+}
+.divframer-171cvlq-parent,
+.divframer-yhfsxu,
+.p {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divframer-171cvlq-parent {
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.14);
+  flex-direction: row;
+  align-items: center;
+  padding: 0.318rem 0.693rem;
+  gap: 0.437rem;
+}
+.divframer-1jff7sf {
+  width: 0.688rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.rated-4855 {
+  position: relative;
+  line-height: 0.9rem;
+}
+.divframer-1j9x5ww,
+.p1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.p1 {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: 0.018rem 0 0.043rem;
+}
+.divframer-1j9x5ww {
+  overflow: hidden;
+  align-items: flex-start;
+}
+.divframer-1htwsli,
+.divframer-2kuydl {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divframer-2kuydl {
+  border-radius: 13px;
+  justify-content: flex-end;
+  gap: 0.25rem;
+  text-align: right;
+  color: #f7c852;
+}
+.divframer-1htwsli {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 0.625rem;
+  font-size: 0.75rem;
+  color: #fafafa;
+}
+.svg-icon2 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 0.875rem;
+  flex-shrink: 0;
+}
+.icon {
+  width: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.text {
+  flex: 1;
+  position: relative;
+  line-height: 1.05rem;
+}
+.div13,
+.hero-text,
+.points {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.5rem;
+}
+.div13 {
+  width: 18.438rem;
+  flex-direction: row;
+}
+.hero-text,
+.points {
+  flex-direction: column;
+  font-size: 0.875rem;
+  color: #d2d2d2;
+}
+.hero-text {
+  align-self: stretch;
+  gap: 0.443rem;
+  text-align: left;
+  font-size: 1.5rem;
+  color: #fff;
+  font-family: "Proxima Nova";
+}
